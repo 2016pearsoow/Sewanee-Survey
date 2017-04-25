@@ -1,3 +1,5 @@
+/* Maria Monterde & Owen Pearson */ 
+
 h1 {
   color: rgb(88,44,131);
   font-size: 50;
@@ -30,6 +32,20 @@ p {
   margin-top: 10%;
 }
 
+form {
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 14;
+  position: relative;
+  text-align: left;
+  border: 1px solid black;
+  background-color: #FFFFFF;
+  opacity: 0.6;
+  margin-left: 30%;
+  margin-right:30%;
+  margin-top: 10%;
+}
+
 h2 {
   color: #000000;
   font-size: 17;
@@ -43,3 +59,8 @@ h2 {
   padding-top: 0.5%;
   padding-bottom: 0.5%;
 }
+
+b {
+  word-wrap: break-word;
+  white-space: normal;
+ }
